@@ -1,5 +1,8 @@
 A branch master contém o projeto em produção. 
 A branco develop é usada para correções e criação de novas funcionalides.
 
-Para correções usaremos, a partir da master, uma nova branch com prefixo hotfix, feita as devidas correções, é feito um merge para master e develop. 
-E ao adicionar uma nova fucnionalidade, uma nova branch a partir da develop é criada, com prefixo feature, após desenvolvida a nova funcionalidade, é feito um merge para develop.
+Para correções usaremos, a partir da master, uma nova branch com prefixo hotfix,
+feita as devidas correções, é feito um merge para master e develop. 
+E ao adicionar uma nova fucnionalidade, uma nova branch a partir
+da develop é criada, com prefixo feature, após desenvolvida a nova funcionalidade, 
+é feito um merge para develop.
